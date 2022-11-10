@@ -13,9 +13,9 @@ this dataset. For most reporting countries, there are over 200 time series
 indicators from 1970 to 2016, as well as pipeline data for scheduled debt
 service payments on current commitments through 2024.
 
-### Data Ingestion
-Design
-● The data gotten from Kaggle was in a “.csv” format, it
+## Data Ingestion
+### Design
+  ● The data gotten from Kaggle was in a “.csv” format, it
 wasn’t cleaned even though it contained blank cells but
 was loaded directly on SQLite.
 ● First, a database was created by clicking on “Database” or
