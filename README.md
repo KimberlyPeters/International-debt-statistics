@@ -5,7 +5,7 @@ them. The project is also aimed at highlighting the skills and knowledge
 obtained during the course and how to apply this in a prospective
 workplace.
 
-##About The Data
+## About The Data
 Project Description
 Financial flows, foreign debt developments, and other significant
 financial indicators for low- and middle-income nations are the focus of
@@ -13,7 +13,7 @@ this dataset. For most reporting countries, there are over 200 time series
 indicators from 1970 to 2016, as well as pipeline data for scheduled debt
 service payments on current commitments through 2024.
 
-###Data Ingestion
+### Data Ingestion
 Design
 ● The data gotten from Kaggle was in a “.csv” format, it
 wasn’t cleaned even though it contained blank cells but
